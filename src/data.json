@@ -1,0 +1,60 @@
+{
+  "title": " Hi i'm peyman haghshenas",
+  "subtitle":" Creator . Writer . Engineer",
+  "links": {
+    "github": "https://github.com/peymancap/github-slideshow",
+    "linkedin":"https://www.linkedin.com/in/پیمان-حق-شناس-6938a01bb",
+    "stackoverflow": "https://stackoverflow.com/users/14663904/%d9%be%db%8c%d9%85%d8%a7%d9%86-%d8%ad%d9%82-%d8%b4%d9%86%d8%a7%d8%b3"
+  },
+  "section":[
+    {
+      "title": "about",
+      "item":[
+        {
+          "type":"p",
+          "content":"i'm web desiner html css and java scrip and by combineing all of them i can make react project"
+
+        }
+      ]
+    },
+    {
+      "title": "skills",
+      "item": [
+        {
+          "type": "card",
+          "content": {
+            "img": "image/1.png",
+            "title": "React"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "img": "image/4.png",
+            "title": "Java script"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "img": "image/5.png",
+            "title": "Sass"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "img": "image/2.png",
+            "title": "Html"
+          }
+        }
+      ]
+    }
+  ],
+  "icons":{
+    "down": "image/down.png",
+    "up": "image/up.png",
+    "colorme": "image/colorme.png"
+  },
+  "footer": "peyman"
+}
